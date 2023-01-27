@@ -1,0 +1,15 @@
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\bin\Debug\net6.0\TaskVeeam.exe
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\bin\Debug\net6.0\TaskVeeam.deps.json
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\bin\Debug\net6.0\TaskVeeam.runtimeconfig.json
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\bin\Debug\net6.0\TaskVeeam.dll
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\bin\Debug\net6.0\TaskVeeam.pdb
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\TaskVeeam.csproj.AssemblyReference.cache
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\TaskVeeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\TaskVeeam.AssemblyInfoInputs.cache
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\TaskVeeam.AssemblyInfo.cs
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\TaskVeeam.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\TaskVeeam.dll
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\refint\TaskVeeam.dll
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\TaskVeeam.pdb
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\TaskVeeam.genruntimeconfig.cache
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\ref\TaskVeeam.dll

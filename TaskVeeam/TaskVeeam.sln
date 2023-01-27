@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskVeeam", "TaskVeeam.csproj", "{FFEDF07D-4F40-49BE-96DE-9057DA3A2ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFEDF07D-4F40-49BE-96DE-9057DA3A2ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEDF07D-4F40-49BE-96DE-9057DA3A2ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEDF07D-4F40-49BE-96DE-9057DA3A2ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEDF07D-4F40-49BE-96DE-9057DA3A2ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31DFC0DB-C9D9-4405-B29F-F08192AB5509}
+	EndGlobalSection
+EndGlobal
