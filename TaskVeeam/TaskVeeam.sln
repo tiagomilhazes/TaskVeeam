@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskVeeam", "TaskVeeam.csproj", "{FFEDF07D-4F40-49BE-96DE-9057DA3A2ACF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskVeeam", "TaskVeeam.csproj", "{FFEDF07D-4F40-49BE-96DE-9057DA3A2ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{F8FB47E4-5AA6-4251-9C09-E99147692108}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FFEDF07D-4F40-49BE-96DE-9057DA3A2ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFEDF07D-4F40-49BE-96DE-9057DA3A2ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFEDF07D-4F40-49BE-96DE-9057DA3A2ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FB47E4-5AA6-4251-9C09-E99147692108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FB47E4-5AA6-4251-9C09-E99147692108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FB47E4-5AA6-4251-9C09-E99147692108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FB47E4-5AA6-4251-9C09-E99147692108}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

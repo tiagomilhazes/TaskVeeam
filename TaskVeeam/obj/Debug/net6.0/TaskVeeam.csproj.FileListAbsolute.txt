@@ -13,3 +13,5 @@ C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\refint\TaskVeeam.d
 C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\TaskVeeam.pdb
 C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\TaskVeeam.genruntimeconfig.cache
 C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\ref\TaskVeeam.dll
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\tiago\Documents\TaskVeeam\TaskVeeam\obj\Debug\net6.0\TaskVeeam.csproj.CopyComplete

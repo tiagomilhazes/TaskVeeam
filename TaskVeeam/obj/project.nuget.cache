@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JqTXlOnr0MbCMU4FE6mH+Wv0xfR3VJsecC806GvJwk/AtycgfkCc6AOuSVBOcUrbarGX8LAPgh8p7scNQVmLpg==",
+  "dgSpecHash": "AgzQ358deyksU23+9fWSsp+BSBU53lgLHFzVRJdc6/kvs9UYBH26mpA1z5G7L8h5rlS1h9DnUIrUi7GYqoPheg==",
   "success": true,
   "projectFilePath": "C:\\Users\\tiago\\Documents\\TaskVeeam\\TaskVeeam\\TaskVeeam.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }
