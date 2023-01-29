@@ -6,7 +6,7 @@ namespace Tests
 {
     public class Tests
     {
-        [Test]
+        [Test, Order(1)]
         public void TestProcessExists()
         {
             var processName = "notepad";
@@ -17,7 +17,7 @@ namespace Tests
             ProcessMonitor.KillProcess(process);
         }
 
-        [Test]
+        [Test, Order(2)]
         public void TestProcessThresholdReached()
         {
             var startTime = DateTime.Now.AddSeconds(-11);
@@ -27,7 +27,7 @@ namespace Tests
         }
 
 
-        [Test]
+        [Test, Order(3)]
         public void TestProcessClosed()
         {
             var processName = "notepad";
@@ -36,6 +36,7 @@ namespace Tests
             if (process != null)
             {
                 ProcessMonitor.KillProcess(process);
+                Thread.Sleep(3000);
                 Assert.IsNull(ProcessMonitor.ProcessExists(processName));
             }
         }
